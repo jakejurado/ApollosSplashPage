@@ -1,0 +1,28 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  background-image: url('https://media.istockphoto.com/photos/the-gray-and-silver-are-light-black-with-white-the-gradient-is-the-picture-id1188030698?k=20&m=1188030698&s=612x612&w=0&h=Zm_SpH2_NNMsMnT9mW1xVkHOZSwn6xfcCPRoSaX9w6o=');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+
+html {
+  color-scheme: light;
+}
+body {
+  color: black;
+}
+
