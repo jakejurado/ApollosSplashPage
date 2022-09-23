@@ -29,7 +29,7 @@ export default function Home() {
 
         </div>
         <div className={styles.grid}>
-          <a href="https://github.com/oslabs-beta/apollos_library/blob/ZqJacob/new-testing-ground/MockQuery_Tools/README.md" className={styles.card}>
+          <a href="https://github.com/oslabs-beta/apollos_library/blob/main/README.md" className={styles.card}>
             <h2>Documentation &rarr;</h2>
             <p>Find in-depth information about Apollo&apos;s Library features.</p>
           </a>
