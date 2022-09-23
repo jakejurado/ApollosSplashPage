@@ -34,13 +34,13 @@ export default function Home() {
             <p>Find in-depth information about Apollo&apos;s Library features.</p>
           </a>
 
-          <a href="https://nextjs.org/learn" className={styles.card}>
+          <a href="https://medium.com/@jamie.clignett/introducing-apollos-library-an-apollo-graphql-module-b060bb2688a9" className={styles.card}>
             <h2>Learn &rarr;</h2>
             <p>Learn more about Apollo&apos;s Library in a medium article!</p>
           </a>
 
           <a
-            href="https://github.com/vercel/next.js/tree/canary/examples"
+            href=""
             className={styles.card}
           >
             <h2>NPM package &rarr;</h2>
