@@ -158,6 +158,11 @@
   margin-left: 0.5rem;
 }
 
+.cat{
+  display: flex;
+  flex-direction: row-reverse;
+}
+
 @media (max-width: 600px) {
   .grid {
     width: 100%;
